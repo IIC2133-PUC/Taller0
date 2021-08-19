@@ -8,7 +8,7 @@ A continuación encontrarás información para aprender a programar en C.
 Puedes revisar este curso que incluye temas importantes para comenzar.
 
 ## Set up en tu computador
-Sigue [esta guía]() para poder trabajar en C en tu computador.
+Sigue [esta guía](https://github.com/IIC2133-PUC/2021-2/tree/master/Gu%C3%ADas) para poder trabajar en C en tu computador.
 
 ## Programa en replit 
 Si aún no tienes el set up listo, puedes realizar este taller en Replit. Solo tienes que seguir estos pasos:
